@@ -19,7 +19,8 @@ In order to use the library, add the **/include** folder to your project folder,
 
 ## Use 
 
-** Basic operations ** 
+**Basic operations** 
+
 By loading the conformal script, the elemental basis e1, e2, e3, e4, e5, e0 and ei are available to develop basic operations: 
 
     %Define a conformal point directly
