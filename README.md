@@ -1,6 +1,6 @@
-# Conformal Algebra Library for MATLAB
+# Conformal Geometric Algebra Library for MATLAB
 
-Matlab library for conformal algebra operations. 
+Matlab library for Geometric Algebra calculations. 
 
 **Key features** 
 
